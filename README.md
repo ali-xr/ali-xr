@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on [Marvie App](https://github.com/AlijonXr/marvie_app)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AlijonXr](https://github.com/AlijonXr)
+- 👨‍💻 All of my projects are available at [AlijonXr](https://github.com/AlijonXr)
 
-- 📝 I regularly write articles on my telegram blog [https://t.me/alixr](https://t.me/alixr)
+- 📝 I regularly write articles on my telegram blog [alixr](https://t.me/alixr)
 
 - 💬 Ask me about **Python, C and Dart pl'es, Flutter(most)**
 
