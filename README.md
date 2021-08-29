@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> I'm Alijon Xurshetov</h1>
-<h3 align="center">A passionate full-stack Flutter developer <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" height="20px"/>, from Tashkent</h3>
+<h3 align="center">A passionate full-stack Flutter developer <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" height="20px"/> from Tashkent</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alijonxr&label=Profile%20views&color=0e75b6&style=flat" alt="alijonxr" /> </p>
 
