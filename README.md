@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alijonxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alijonxr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ali-xurshetov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali xurshetov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alixurshetov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali xurshetov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/alijon xurshetov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alijon xurshetov" height="30" width="40" /></a>
 <a href="https://fb.com/ali xurshetov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali xurshetov" height="30" width="40" /></a>
 <a href="https://instagram.com/alijon.xr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alijon.xr" height="30" width="40" /></a>
