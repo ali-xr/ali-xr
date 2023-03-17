@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alijonxr&label=Profile%20views&color=0e75b6&style=flat" alt="alijonxr" /> </p>
 
-- 🔭 I’m currently working on [Fulan](https://github.com/AlijonXr/fulan)<img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" height="18px">
-
-- 🌱 I’m currently learning **Flutter and also Node.js 😁**
-
-- 👯 I’m looking to collaborate on [Marvie App](https://github.com/AlijonXr/marvie_app)
+- 🌱 I’m currently learning **Dart & Flutter😁**
 
 - 👨‍💻 All of my projects are available at [AlijonXr](https://github.com/AlijonXr)
 
