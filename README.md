@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alijonxr&label=Profile%20views&color=0e75b6&style=flat" alt="alijonxr" /> </p>
 
-- 🌱 I’m currently learning **Dart & Flutter😁**
+- 🌱 I’m currently working **Dart & Flutter😁**
 
 - 👨‍💻 All of my projects are available at [AlijonXr](https://github.com/AlijonXr)
 
