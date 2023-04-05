@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working **Dart & Flutter😁**
 
-- 👨‍💻 All of my projects are available at [Ali Xr](https://github.com/al1xr)
+- 👨‍💻 All of my projects are available at [Ali Xr](https://github.com/xurshetov)
 
 - 📝 I regularly write articles on my telegram blog [alixr](https://t.me/alixr)
 
